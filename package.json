@@ -1,10 +1,9 @@
-{
-  "name": "smile-ai-group",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
+"scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start -p $PORT"
+}
+
   },
   "dependencies": {
     "next": "14.2.5",
