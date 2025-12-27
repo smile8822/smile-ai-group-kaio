@@ -12,13 +12,15 @@ export default function Home() {
           <StatusBadge status="LIVE · VERIFIED · TRANSPARENT" />
 
           <h1 className="mt-6 max-w-3xl text-4xl md:text-5xl font-bold tracking-tight text-white">
-            AI가 운영하고, <br className="hidden md:block" />
+            AI가 운영하고,
+            <br className="hidden md:block" />
             사람은 판단에 집중합니다.
           </h1>
 
           <p className="mt-6 max-w-2xl text-white/70 leading-relaxed">
-            SMILE AI GROUP은 모든 시스템을 <b>검증 → 기록 → 반복</b> 구조로 운영합니다.  
-            실제 운영 상태만을 공개하며, 추정·약속·마케팅을 배제합니다.
+            SMILE AI GROUP은 모든 시스템을 <b>검증 → 기록 → 반복</b> 구조로 운영합니다.
+            <br />
+            추정·약속·마케팅을 배제하고 실제 운영 상태만 공개합니다.
           </p>
 
           <div className="mt-10 flex flex-wrap gap-3">
@@ -53,7 +55,8 @@ export default function Home() {
       <section className="border-t border-white/10 py-16">
         <Container>
           <p className="max-w-3xl text-sm text-white/50 leading-relaxed">
-            모든 정보는 실시간 상태를 기준으로 공개됩니다.  
+            모든 정보는 실시간 운영 상태를 기준으로 공개됩니다.
+            <br />
             SMILE AI GROUP은 결과가 아닌 <b>운영 구조</b>로 신뢰를 증명합니다.
           </p>
         </Container>
